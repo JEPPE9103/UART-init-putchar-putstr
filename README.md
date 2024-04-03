@@ -1,6 +1,6 @@
 # UART-init-putchar-putstr
 
-Detta repository innehåller exempelkod för att konfigurera, skicka tecken och skicka strängar via USART0 på en STM32-krets. Koden är avsedd för nybörjare som vill lära sig om UART-kommunikation.
+Detta repository innehåller exempelkod för att konfigurera, skicka tecken och skicka strängar via USART0 på en STM32-krets.
 
 ## Innehåll:
 
